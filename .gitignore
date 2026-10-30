@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Variáveis de ambiente
+.env
+
+# Editores e sistema
+.idea/
+.vscode/
+.DS_Store
