@@ -18,4 +18,4 @@ python Codigo.py
 
 ## Interface
 
-![Janela do jogo](https://github.com/kleberson56/Estudos-Python/assets/132021267/7b19bbd4-6b72-4a98-abec-c23762bf28f4)
+![Janela do jogo](https://github.com/kleberson56/Estudos-Python/assets/132021267/7b19bbd4-b26a-41a3-a59a-9b6922770069)
