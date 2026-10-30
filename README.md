@@ -1,15 +1,21 @@
-# 🎮 Jogo-Python
+# Jogo de Adivinhação em Python
 
-Projetos simples em Python para aprimorar meus estudos na linguagem.
+Jogo de adivinhação com interface gráfica em Tkinter, criado para estudo da linguagem Python.
 
-## 📌 Algoritmo – Adivinhador de Números  
+## Como funciona
 
-O jogo gera um número aleatório, e o jogador deve adivinhar.  
+O programa sorteia um número entre 1 e 100. A cada palpite, informa se o valor é muito baixo ou muito alto. Ao acertar, mostra o total de tentativas.
 
-### 🔹 Código-fonte  
-![Código](https://github.com/kleberson56/Estudos-Python/assets/132021267/e4dab8d3-b31e-4e70-be3b-f336c965f5ed)  
+## Requisitos
 
-### 🔹 Interface Gráfica  
-Ao executar, o programa exibe uma janela onde o usuário pode tentar adivinhar o número gerado.  
+- Python 3 (Tkinter já vem incluído na instalação padrão)
 
-![Janela](https://github.com/kleberson56/Estudos-Python/assets/132021267/7b19bbd4-b26a-41a3-a59a-9b6922770069)  
+## Executar
+
+```bash
+python Codigo.py
+```
+
+## Interface
+
+![Janela do jogo](https://github.com/kleberson56/Estudos-Python/assets/132021267/7b19bbd4-b26a-41a3-a59a-9b6922770069)
